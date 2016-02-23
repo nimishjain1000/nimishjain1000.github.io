@@ -1,7 +1,7 @@
-https://the-dagger.github.io/
+https://nimishjain1000.github.io/
 ======================
 
-Github repo for Harshit Dwivedi's Website
+Github repo for Nimish Jain's Website
 
 ## How to create one for your own
 1. Fork the repo
